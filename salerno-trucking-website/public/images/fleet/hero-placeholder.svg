@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#252525"/><stop offset="1" stop-color="#0d0d0d"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="url(#g)"/>
+<path d="M0 810 L440 520 L760 680 L1120 390 L1600 700 L1600 1000 L0 1000Z" fill="#bf1e2e" opacity=".22"/>
+<circle cx="1260" cy="230" r="170" fill="none" stroke="#bf1e2e" stroke-width="32" opacity=".55"/>
+<rect x="120" y="690" width="720" height="130" rx="20" fill="#fff" opacity=".08"/>
+<text x="120" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="78" font-weight="800">SALERNO TRUCKING</text>
+<text x="125" y="235" fill="#c9c9c9" font-family="Arial, sans-serif" font-size="30">Hero mixer-truck photograph placeholder</text>
+<text x="125" y="930" fill="#fff" opacity=".55" font-family="Arial, sans-serif" font-size="22">REPLACE WITH APPROVED SALERNO TRUCKING PHOTOGRAPHY</text>
+</svg>
